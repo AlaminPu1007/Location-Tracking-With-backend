@@ -1,6 +1,6 @@
-# Location-Tracking-With-backend
+# Map Recorder
 
 This application for android mobile, which is implemented to provide the android mobile user to record, review specific locations and see someone saving route on the online map.
 The proposed applications also presents the basics navigation operations like showing directions from source to destination.
 
-"track-server"-- is the backend code of this application which is developed by express js framework.
+This application is developed by react-native, express js, mongodb(no sql).
